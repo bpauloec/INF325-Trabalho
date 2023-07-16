@@ -1,17 +1,3 @@
-<!-- ds header -->
-<div align="center">
- <img src="https://avatars3.githubusercontent.com/u/47368510?s=200&v=4" width="100px">
- <h3>The Data Science and Engineering Society </h3>
- <hr/>
- <a href="https://github.com/thedatasociety" target="_blank">
-   <img src="https://raw.githubusercontent.com/thedatasociety/lab-mongodb/master/resources/images/github-icon.png" width="30px" alt="github organization">
- </a>
- <a href="https://hub.docker.com/search?q=thedatasociety&type=image"  target="_blank" >
-   <img src="https://raw.githubusercontent.com/thedatasociety/lab-mongodb/master/resources/images/docker-icon.png" width="30px" alt="our docker hub organization">
- </a>
- </div>
-<!-- /ds header -->
-
 # INF325 2023 - Trabalho Banco de Dados - Grupo 02
 
 Repositório para executar trabalho do Grupo 02 referente a disciplina INF325 - Modelagem e Projeto de Bancos de Dados do curso de Especialização em Engenharia de Software oferido pelo Instuto de Computação da UNICAMP.
