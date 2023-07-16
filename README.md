@@ -26,9 +26,9 @@ Repositório para executar trabalho do Grupo 02 referente a disciplina INF325 - 
 
 A lista abaixo disponibiliza as badges e hyperlinks para executar uma interface específica de uma instância binderhub.
 
-#### JupyterLab 
+#### Trabalho
 
-  - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/bpauloec/INF325-Trabalho-Grupo02/main?urlpath=lab)
+  - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/bpauloec/INF325-Trabalho-Grupo02/main?urlpath=trabalho)
 
 
 #### Jupyter 
