@@ -20,7 +20,7 @@ A lista abaixo disponibiliza as badges e hyperlinks para executar uma interface 
 
 #### Jupyter 
   
-  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/bpauloec/INF325-Trabalho-Grupo02/main?urlpath=tree)
+  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/bpauloec/INF325-Trabalho-Grupo02)
 
 <!-- Jupyter badges -->
 
